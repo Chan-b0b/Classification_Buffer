@@ -1,8 +1,9 @@
 # Classification_Buffer
 
 Download Cifar10 file from https://www.kaggle.com/datasets/swaroopkml/cifar10-pngs-in-folders?resource=download
-
-<img src="images/basic_architecture.png" alt="basic_architecture" width="700">
+<p align="center">
+<img src="images/basic_architecture.png" alt="basic_architecture" width="600">
+</p>
 
 1. Randomly sample from the dataset.
 2. Score the samples using a classification model, using metrics like crossentropy. Higher scores indicate higher difficulty.
